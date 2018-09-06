@@ -16,7 +16,7 @@ export default () => {
           <span role="img" aria-label="learned">
             ✏️
           </span>{' '}
-          #TIL Shoutout to <a class='name' href="https://twitter.com/stefanjudis" target="_blank">Stefan Judis</a> for making it possible.
+          #TIL Shoutout to <a className='name' href="https://twitter.com/stefanjudis">Stefan Judis</a> for making it possible.
         </div>
         <Link to={'/tutorial/'} className="c-header__button o-btn">
           Set up your own!

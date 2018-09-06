@@ -15,3 +15,18 @@
 .c-header__button {
   margin-left: auto;
 }
+
+.name {
+  text-decoration: none;
+  background: #3FB7AF;
+  padding: 5px;
+  font-family: 'Helvetica';
+  font-size: 20px;
+  color: #FCF7F9;
+  letter-spacing: 1.5px;
+  cursor: pointer;
+}
+
+.name:visited {
+  color: #FCF7F9;
+}
